@@ -5,7 +5,9 @@ p {
 	margin: 0;
 	font-size: 150%;
 	padding: 10px;
-	
+	line-height: 30px;
+	  border-top-style: hidden;
+	  border-bottom-style: dashed;
 	}
 h1 {
 	
